@@ -66,7 +66,7 @@ function About() {
         <Card
           title="Lets connect!"
           icon={
-            <img src="/Khai.JPG" className="object-cover overflow-hidden" />
+            <img src="/thul.jpeg" className="object-cover overflow-hidden" />
           }
           socialIcons={social}
         >
@@ -80,5 +80,6 @@ function About() {
     </section>
   );
 }
+
 
 export default About;
