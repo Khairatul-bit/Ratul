@@ -84,18 +84,6 @@ export const experience = [
   },
   {
     id: 2,
-    title: "Multimedia and Design Division",
-    company: "FPCI Presuniv",
-    timeline: "Aug 2024 - May 2025",
-    image: "/fpci.png",
-    description: [
-      "Responsible for producing visual content for both internal and external organizational needs.",
-      "Collaborated with the design team to develop promotional materials for campus events.",
-      "Proficient in tools like Canva and graphic design principles to support visual communication.",
-    ],
-  },
-  {
-    id: 3,
     title: "Landing Page Builder Intern",
     company: "PT Rencana Sinergi Indonesia - UI/UX Web Development",
     timeline: "Jan 2025 - Apr 2025",
@@ -104,6 +92,18 @@ export const experience = [
       "Designed and developed a product landing page (Kafamilk) with a strong focus on UI and UX.",
       "Applied responsive design principles to improve customer conversion and visual appeal.",
       "Worked remotely with creative and marketing teams to meet campaign goals.",
+    ],
+  },
+   {
+    id: 3,
+    title: "Multimedia and Design Division",
+    company: "FPCI Presuniv",
+    timeline: "Aug 2024 - May 2025",
+    image: "/fpci.png",
+    description: [
+      "Responsible for producing visual content for both internal and external organizational needs.",
+      "Collaborated with the design team to develop promotional materials for campus events.",
+      "Proficient in tools like Canva and graphic design principles to support visual communication.",
     ],
   },
   {
@@ -230,3 +230,4 @@ export const videoProject = [
     stack: ["Capcut", "Canva",],
   },
 ];
+
